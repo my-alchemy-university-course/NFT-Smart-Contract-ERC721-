@@ -1,0 +1,24 @@
+{ 
+  "description": "This NFT proves Ravikiran Betha created and deployed my first ERC20 smart contract on Goerli with Alchemy Road to Web3",
+  "external_url": "Alchemy.com/?a=roadtoweb3weekone",
+  "image": "https://ipfs.filebase.io/ipfs/QmSVD5ksUbojoNPm6P3EdDWDUyGhMzxaYZRn1hFz3RCWVe",
+  "name": "Ravi Kiran Betha Week 1 NFT", 
+  "attributes": [
+    {
+      "trait_type": "Attitude", 
+      "value": "Learn for life"
+    }, 
+    {
+      "trait_type": "Interests", 
+      "value": "Blockchain"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": "Intermediate"
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Composed"
+    }, 
+   ]
+  }
